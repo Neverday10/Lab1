@@ -6,6 +6,7 @@ import BT6 from "./BT6";
 import BT7 from "./BT7";
 import BT8 from "./BT8";
 import Lab1_2 from "./Lab1_2"
+import Bt1 from "./Bt1";
 
 const App = ()=>{
   return(
